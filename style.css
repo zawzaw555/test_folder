@@ -1,0 +1,20 @@
+body {
+    display: block;
+    margin: 3px;
+    padding: 3px;
+}
+
+header h1 {
+    color: aqua;
+    text-align: center;
+}
+
+section p {
+    color: blue;
+}
+
+footer {
+    display: flex;
+    justify-content:space-around;
+    justify-items: center;
+}
